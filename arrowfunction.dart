@@ -1,6 +1,10 @@
+// without arrow function
+
 //double calculateInterest(double p,double r, double t){
   //double interest=p*r*t/100;
   //return interest;
+
+  //arrowfunction
   double calculateInterest(double p,double r, double t)=>
               p*r*t/100;
 
